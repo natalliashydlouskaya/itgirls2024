@@ -1,0 +1,26 @@
+Main page:
+
+Welcome to our online flower shop
+Welcome to our online flower shop, where beauty blooms with every click. Explore our exquisite collection of fresh flowers, meticulously curated to brighten any occasion. Whether you're celebrating love, expressing sympathy, or simply spreading joy, find the perfect arrangement that speaks from the heart. Browse now and let nature's artistry inspire your next memorable moment.
+
+
+Categories:
+Explore Our Floral Categories
+Dive into a world of floral wonder with our diverse range of categories, each boasting its own unique charm. From romantic roses to vibrant tulips, elegant lilies to cheerful sunflowers, discover the ideal blooms to suit every taste and occasion. Let your imagination flourish as you explore our curated selections, each crafted to elevate your floral experience to new heights.
+Categories:
+	Roses
+ 	Tulips
+	Lilies
+	Sunflowers
+	Orchids
+
+Flower Care Tips:
+	Keep flowers in a clean vase filled with fresh water.
+    Trim stems at an angle before placing in water.
+    Change water and recut stems every few days.
+	Avoid placing flowers in direct sunlight or near heat sources.
+	Remove any wilting or dead blooms to prolong freshness.
+
+Order:
+
+
